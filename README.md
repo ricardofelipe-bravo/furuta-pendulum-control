@@ -33,9 +33,9 @@ This module performs experimental validation in a high-fidelity virtual environm
 
 
 
-## 📊 Methodology and Results
+## Methodology and Results
 The project focuses on the **swing-up** maneuver from the rest position and the subsequent **stabilization** at the unstable equilibrium point. A comparative analysis was conducted using performance metrics such as **ITAE** (Integral of Time-weighted Absolute Error) and **actuator saturation** analysis to determine the most efficient strategy for real-world applications.
 
-## 🛠️ Requirements
+## Requirements
 * **MATLAB** (Control System Toolbox recommended).
 * **CoppeliaSim** (Remote API enabled).
