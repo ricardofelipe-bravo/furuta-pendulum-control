@@ -26,7 +26,7 @@ This directory contains individual MATLAB scripts where the mathematical plant i
 * **MPC (Model Predictive Control):** Predictive control strategy for constraint management and optimal trajectory tracking.
 * **Gain Scheduling:** Adaptation of controller gains based on different operating points of the pendulum.
 
-### 2. Real-Time Co-Simulation (`/Matlab_Coppelia`)
+### 2. Real-Time Co-Simulation (`/Matlab_y_CoppeliaSim`)
 This module performs experimental validation in a high-fidelity virtual environment:
 * **CoppeliaSim Scene:** Includes the 3D physical model with actuators and sensors.
 * **Remote API Synchronization:** MATLAB scripts acting as the control server, sending command signals and receiving telemetry from the simulator via a synchronous communication link.
