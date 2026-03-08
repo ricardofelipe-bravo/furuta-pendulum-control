@@ -1,9 +1,7 @@
 # Pendulo-de-Furuta
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ricardofelipe-bravo/Pendulo-de-Furuta/main/FP.jpg" width="400">
+  <img src="https://raw.githubusercontent.com/ricardofelipe-bravo/furuta-pendulum-control/main/FP.jpg" width="400">
 </p>
-
----
 
 ## Comparación de Estrategias de Control
 
