@@ -27,7 +27,7 @@ This directory contains individual MATLAB scripts where the mathematical plant i
 ### 2. Real-Time Co-Simulation (`/Matlab_y_CoppeliaSim`)
 This module performs experimental validation in a high-fidelity virtual environment:
 * **CoppeliaSim Scene:** Includes the 3D physical model with actuators and sensors.
-* **Remote API Synchronization:** MATLAB scripts acting as the control server, sending command signals and receiving telemetry from the simulator via a synchronous communication link.
+* **Remote API Synchronization:** MATLAB scripts acting as the control server, sending command signals and receiving telemetry from the simulator via a synchronous communication link
 
 
 
